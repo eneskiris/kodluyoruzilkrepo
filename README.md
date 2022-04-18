@@ -26,4 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Patika.dev
 [patika.dev](https://app.patika.dev/eneskiris)
